@@ -6,5 +6,17 @@
     "jogKinslider": "slider",
     "jogKiny": "y",
     "jogKinx": "x"
+  },
+  "studio-open-git": {
+    "https://gist.github.com/b61cc6ca556bf0369010b55b8450595e.git:LoadSTL.groovy": [
+      "https://gist.github.com/b61cc6ca556bf0369010b55b8450595e.git",
+      "LoadSTL.groovy"
+    ]
+  },
+  "BowlerStudioConfigs": {
+    "firstVersion": "0.19.5",
+    "skinBranch": "master",
+    "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
+    "currentVersion": "0.19.5"
   }
 }
