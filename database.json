@@ -8,6 +8,10 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
+    "https://gist.github.com/efd56eb87578fdb3217b0f682949181c.git:javaCad.groovy": [
+      "https://gist.github.com/efd56eb87578fdb3217b0f682949181c.git",
+      "javaCad.groovy"
+    ],
     "https://gist.github.com/c1707ed589cdb0b7ad73fd7c11c3e409.git:sphere.groovy": [
       "https://gist.github.com/c1707ed589cdb0b7ad73fd7c11c3e409.git",
       "sphere.groovy"
