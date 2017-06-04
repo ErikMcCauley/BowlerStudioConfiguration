@@ -8,22 +8,6 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
-    "https://gist.github.com/efd56eb87578fdb3217b0f682949181c.git:javaCad.groovy": [
-      "https://gist.github.com/efd56eb87578fdb3217b0f682949181c.git",
-      "javaCad.groovy"
-    ],
-    "https://gist.github.com/21099fc60811e74e7bc9e269debe164e.git:CSGData.groovy": [
-      "https://gist.github.com/21099fc60811e74e7bc9e269debe164e.git",
-      "CSGData.groovy"
-    ],
-    "https://gist.github.com/c1707ed589cdb0b7ad73fd7c11c3e409.git:sphere.groovy": [
-      "https://gist.github.com/c1707ed589cdb0b7ad73fd7c11c3e409.git",
-      "sphere.groovy"
-    ],
-    "https://gist.github.com/4814b39ee72e9f590757.git:javaCad.groovy": [
-      "https://gist.github.com/4814b39ee72e9f590757.git",
-      "javaCad.groovy"
-    ],
     "https://gist.github.com/b61cc6ca556bf0369010b55b8450595e.git:LoadSTL.groovy": [
       "https://gist.github.com/b61cc6ca556bf0369010b55b8450595e.git",
       "LoadSTL.groovy"
